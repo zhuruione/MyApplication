@@ -1,0 +1,13 @@
+rootProject.name = "My Application"
+include ':app'
+include ':kaixxxl'
+include ':myapplication'
+include ':myapplication2'
+include ':myview'
+include ':relativelayouttest'
+include ':linearlayouttest'
+include ':weixinlogin'
+include ':framelayouttest'
+include ':tablelayouttest'
+include ':alllayout'
+include ':radiobuttontest'
